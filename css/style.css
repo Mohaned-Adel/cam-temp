@@ -42,11 +42,8 @@ body {
     font-size: 17px
     
 }
-.sec-span {
-    color: #333;
-    font-weight: bold;
-    font-size: 20px
-}
+.sec-span {color: #333; font-weight: bold; font-size: 20px }
+
 /*end global styling **************************************/
 
 /*specific styling ****************************************/
@@ -253,23 +250,13 @@ footer .footer-content button i {margin-left: 10px;font-size: 25px }
     
     .container { width: 900px; margin: auto; }
     
-    header nav ul li{
-        margin: 0 40px;
-    }
+    header nav ul li{ margin: 0 40px; }
     
-    section .sec-three-container {
-        display: block;
-        padding: 50px 75px;
-    }
+    section .sec-three-container { display: block; padding: 50px 75px; }
     
-    section .sec-three-container .two-images {
-        display: inline-block;
-    }
+    section .sec-three-container .two-images { display: inline-block; }
     
-    .subscribe .inputs textarea,
-    .subscribe .inputs input {
-        width: 350px;
-    }
+    .subscribe .inputs textarea, .subscribe .inputs input { width: 350px; }
     
 }
 
@@ -277,41 +264,21 @@ footer .footer-content button i {margin-left: 10px;font-size: 25px }
     
     .container { width: 700px; margin: auto; }
     
-    header nav ul li {
-        margin: 0 25px;
-    }
+    header nav ul li { margin: 0 25px; }
     
-    section .section-one-container {
-        width: auto;
-        text-align: center;
-    }
+    section .section-one-container { width: auto; text-align: center; }
     
-    .sec-p {
-        color: #7de0cd;
-    }
+    .sec-p { color: #7de0cd; }
     
-    section .sec-three-container {
-        display: block;
-        padding: 50px 75px;
-        text-align: center;
-    }
+    section .sec-three-container { display: block; padding: 50px 75px; text-align: center; }
     
-    section .sec-three-container .two-images img {
-        margin-bottom: 20px;
-    }
+    section .sec-three-container .two-images img { margin-bottom: 20px; }
     
-    .subscribe {
-        display: block;
-    }
+    .subscribe { display: block; }
     
-    .subscribe .inputs:first-of-type {
-        padding: 150px 50px 0;
-    }
+    .subscribe .inputs:first-of-type { padding: 150px 50px 0; }
     
-    .copyrights p {
-        font-size: 20px;
-        padding: 25px;
-    }
+    .copyrights p { font-size: 20px; padding: 25px; }
     
 }
 
